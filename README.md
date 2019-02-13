@@ -25,4 +25,4 @@ The focus will be on building machine learning applications. Links to relevant t
 1. [Deep Learning](https://www.deeplearningbook.org/)
 
 ### Tutorials
-1.  [Andrej Karpathy's] notes for the Stanford CS class CS231n: Convolutional Neural Networks for Visual Recognition.(http://cs231n.github.io/)
+1.  [Andrej Karpathy's notes for the Stanford CS class CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)

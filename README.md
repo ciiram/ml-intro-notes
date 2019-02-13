@@ -1,8 +1,8 @@
 # Machine Learning
 
-This repository contains notes and jupyter notebooks to be used for the machine learning and python introduction by the Microsoft Dev Community at Dedan Kimathi University of Technology. This repo will be regularly updated.
+This repository contains notes and jupyter notebooks to be used for the machine learning and python introduction by the Microsoft Tech Community at Dedan Kimathi University of Technology. This repo will be regularly updated.
 
-Currently the notebooks available are
+Currently the n       books available are
 1. Introduction to Machine Learning
 1. Introduction to Python
 
@@ -23,3 +23,6 @@ The focus will be on building machine learning applications. Links to relevant t
 ### Books
 1. [Pattern Recognition and Machine Learning](https://www.springer.com/gp/book/9780387310732)
 1. [Deep Learning](https://www.deeplearningbook.org/)
+
+### Tutorials
+1.  [Andrej Karpathy's] notes for the Stanford CS class CS231n: Convolutional Neural Networks for Visual Recognition.(http://cs231n.github.io/)

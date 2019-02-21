@@ -2,10 +2,11 @@
 
 This repository contains notes and jupyter notebooks to be used for the machine learning and python introduction by the Microsoft Tech Community at Dedan Kimathi University of Technology. This repo will be regularly updated.
 
-Currently the n       books available are
+Currently the notebooks available are
 1. Introduction to Machine Learning
 1. Introduction to Python
-
+1. Classification I - Introduction to classification, K-nearest neighbour
+1. Classification II - The perceptron
 
 ## Requirements
 To run this notebooks you will need
